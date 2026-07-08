@@ -395,7 +395,7 @@ Happy Coding! 🚀
 ---
 
 <h2 align="center">
-💡 "Code. Learn. Build. Repeat."
+When life hits the hardest, just say: "HAVE FUNNNN"
 </h2>
 
 <h3 align="center">
