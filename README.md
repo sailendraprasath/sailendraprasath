@@ -35,7 +35,7 @@ const Sailesh = {
 
 location: "Tamil Nadu 🇮🇳",
 
-role: "Frontend Developer",
+role: "Full Stack Developer",
 
 currentlyLearning: [
 "Data Structures & Algorithms",
